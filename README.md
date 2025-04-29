@@ -13,12 +13,12 @@ The notebook performs the following tasks:
 5. Filters genes based on expression thresholds and re-calculates stats.
 6. Plots histograms for the filtered dataset.
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies (if not already installed):
    ```bash
     pip install pandas matplotlib
 2. Launch the notebook:
-  ```bash
+    ```bash
     jupyter notebook
-3. Open GenePattern_GCT_Analysis.ipynb and run all cells.
+4. Open GenePattern_GCT_Analysis.ipynb and run all cells.
