@@ -17,8 +17,8 @@ The notebook performs the following tasks:
 
 1. Install dependencies (if not already installed):
    ```bash
-    pip install pandas matplotlib
+   pip install pandas matplotlib
 2. Launch the notebook:
     ```bash
-    jupyter notebook
+   jupyter notebook
 4. Open GenePattern_GCT_Analysis.ipynb and run all cells.
