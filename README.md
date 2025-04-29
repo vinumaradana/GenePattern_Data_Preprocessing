@@ -1,4 +1,4 @@
-# GenePattern_Data_Preprocessing
+# GenePattern Data Preprocessing
 
 This repository contains a Jupyter Notebook that performs preprocessing, statistical analysis, and visualization on gene expression data in the GCT file format, using tools commonly employed in the Mesirov Lab.
 
